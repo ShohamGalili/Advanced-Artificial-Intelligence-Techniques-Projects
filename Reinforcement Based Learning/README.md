@@ -50,15 +50,6 @@ Both problems are approached using multi-armed bandit algorithms, allowing for t
     python run_mab_personalization.py
     ```
 
-## Submission
-
-- **Files to Submit:** You need to upload the two implementation files (`run_mab_advertisement.py` and `run_mab_personalization.py`) to the provided Google form.
-- **Submission Format:** The files should be uploaded as a single zip file.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact [shoahmgalili1@gmail.com](mailto:shoahmgalili1@gmail.com).
